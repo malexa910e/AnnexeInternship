@@ -30,13 +30,15 @@ make security
 ```
 make access
 ```
+```
 make schedule
 ```
+
 make alarm
 make present
 make leaving
 ```
-* Warning *
+* Warning 
 
 For this to work, make sure you allow the GUI application to run with docker, we have chosen to add a local user to xhost while the application is running
 
