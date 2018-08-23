@@ -19,27 +19,27 @@ This app, which enables to work with docker, allows to identify people appearing
 
 ## Step
 
-Assure to lauch this different commande into different terminal
+Assure to launch this different command into different terminal
 
-'''
+```
 make managing
-'''
-'''
+```
+```
 make security
-'''
-'''
+```
+```
 make access
-'''
+```
 make schedule
-'''
+```
 make alarm
 make present
 make leaving
-'''
+```
 * Warning *
 
 For this to work, make sure you allow the GUI application to run with docker, we have chosen to add a local user to xhost while the application is running
 
-'''
+```
 xhost local:root
-'''
+```
