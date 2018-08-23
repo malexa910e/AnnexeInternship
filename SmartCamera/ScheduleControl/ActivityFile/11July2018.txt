@@ -1,0 +1,87 @@
+At 10:44:23, there are 1 person(s) in the building:
+Peggy Olson,and 0 stranger(s) are here
+
+At 10:44:29, there are 2 person(s) in the building:
+Peggy Olson,and 1 stranger(s) are here
+
+At 10:44:30, there are 3 person(s) in the building:
+Peggy Olson,and 2 stranger(s) are here
+
+At 10:44:39, there are 4 person(s) in the building:
+Peggy Olson,Don Draper,and 2 stranger(s) are here
+
+At 10:44:41, there are 3 person(s) in the building:
+Peggy Olson,Don Draper,and 1 stranger(s) are here
+
+At 10:44:45, there are 2 person(s) in the building:
+Peggy Olson,Don Draper,and 0 stranger(s) are here
+
+At 10:44:45, there are 3 person(s) in the building:
+Peggy Olson,Don Draper,Roger Sterling,and 0 stranger(s) are here
+
+At 10:44:47, there are 4 person(s) in the building:
+Peggy Olson,Don Draper,Roger Sterling,and 1 stranger(s) are here
+
+At 10:44:54, there are 5 person(s) in the building:
+Peggy Olson,Don Draper,Roger Sterling,and 2 stranger(s) are here
+
+At 10:44:57, there are 6 person(s) in the building:
+Peggy Olson,Don Draper,Roger Sterling,and 3 stranger(s) are here
+
+At 10:44:58, there are 5 person(s) in the building:
+Don Draper,Roger Sterling,and 3 stranger(s) are here
+
+At 10:45:07, there are 4 person(s) in the building:
+Don Draper,Roger Sterling,and 2 stranger(s) are here
+
+At 10:45:14, there are 3 person(s) in the building:
+Don Draper,Roger Sterling,and 1 stranger(s) are here
+
+At 10:45:20, there are 2 person(s) in the building:
+Don Draper,Roger Sterling,and 0 stranger(s) are here
+
+At 10:45:25, there are 3 person(s) in the building:
+Don Draper,Roger Sterling,and 1 stranger(s) are here
+
+At 10:45:34, there are 4 person(s) in the building:
+Don Draper,Roger Sterling,Pete Campbell,and 1 stranger(s) are here
+
+At 10:45:43, there are 5 person(s) in the building:
+Don Draper,Roger Sterling,Pete Campbell,and 2 stranger(s) are here
+
+At 10:45:51, there are 6 person(s) in the building:
+Don Draper,Roger Sterling,Pete Campbell,and 3 stranger(s) are here
+
+At 10:45:54, there are 5 person(s) in the building:
+Don Draper,Roger Sterling,Pete Campbell,and 2 stranger(s) are here
+
+At 10:45:56, there are 4 person(s) in the building:
+Don Draper,Pete Campbell,and 2 stranger(s) are here
+
+At 10:45:56, there are 5 person(s) in the building:
+Don Draper,Pete Campbell,and 3 stranger(s) are here
+
+At 10:45:58, there are 6 person(s) in the building:
+Don Draper,Pete Campbell,and 4 stranger(s) are here
+
+At 10:45:58, there are 7 person(s) in the building:
+Don Draper,Pete Campbell,and 5 stranger(s) are here
+
+At 10:46:02, there are 8 person(s) in the building:
+Don Draper,Pete Campbell,Joan Holloway,and 5 stranger(s) are here
+
+At 10:46:09, there are 7 person(s) in the building:
+Don Draper,Pete Campbell,Joan Holloway,and 4 stranger(s) are here
+
+At 10:46:11, there are 6 person(s) in the building:
+Don Draper,Pete Campbell,Joan Holloway,and 3 stranger(s) are here
+
+At 10:46:17, there are 7 person(s) in the building:
+Don Draper,Pete Campbell,Joan Holloway,and 4 stranger(s) are here
+
+At 10:46:30, there are 6 person(s) in the building:
+Don Draper,Pete Campbell,Joan Holloway,and 3 stranger(s) are here
+
+At 10:46:31, there are 5 person(s) in the building:
+Don Draper,Pete Campbell,Joan Holloway,and 2 stranger(s) are here
+

@@ -1,0 +1,7 @@
+FROM python:3.6
+MAINTAINER Josip Janzic <josip.janzic@gmail.com>
+
+RUN pip install paho-mqtt
+
+COPY /Managing /home
+CMD python3 home/listen.py

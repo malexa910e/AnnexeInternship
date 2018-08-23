@@ -1,0 +1,6 @@
+FROM python:3.6
+MAINTAINER Josip Janzic <josip.janzic@gmail.com>
+
+RUN pip install numpy paho-mqtt matplotlib
+
+CMD bash
